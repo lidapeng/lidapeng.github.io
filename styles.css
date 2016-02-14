@@ -79,7 +79,14 @@ a1 {}
 	float:left;
 	width:85%;
 }
-
+.skillTitle{
+	float: left;
+	width: 40%;
+}
+.skillContent{
+	float: left;
+	width: 60%;
+}
 /****************************************************/
 /* ABOUT SECTION */
 /****************************************************/
@@ -219,6 +226,19 @@ a1 {}
 	padding:0px;
 }
 #awards #awards-thumbs li.last{margin:0px;}
+/****************************************************/
+/* TEACHING SECTION */
+/****************************************************/
+
+#skills{margin:0px 43px; padding-top:115px;}
+#skills .content{overflow:auto;}
+#skills #skills-thumbs li{
+	list-style:none;
+	float:left;
+	margin:0px 20px 15px 0px;
+	padding:0px;
+}
+#skills #skills-thumbs li.last{margin:0px;}
 /****************************************************/
 /* PORTFOLIO SECTION */
 /****************************************************/
