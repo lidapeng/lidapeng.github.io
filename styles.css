@@ -12,7 +12,7 @@ ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#6a6969;}
 a:hover {color:#979797;}
 a img{border:0px;}
-
+a1 {}
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
@@ -167,6 +167,19 @@ a img{border:0px;}
 #research #research-thumbs li.last{margin:0px;}
 
 /****************************************************/
+/* TEACHING SECTION */
+/****************************************************/
+
+#teaching{margin:0px 43px; padding-top:115px;}
+#teaching .content{overflow:auto;}
+#teaching #teaching-thumbs li{
+	list-style:none;
+	float:left;
+	margin:0px 20px 15px 0px;
+	padding:0px;
+}
+#teaching #teaching-thumbs li.last{margin:0px;}
+/****************************************************/
 /* PUBLICATION SECTION */
 /****************************************************/
 
@@ -193,7 +206,19 @@ a img{border:0px;}
 	padding:0px;
 }
 #presentation #presentation-thumbs li.last{margin:0px;}
+/****************************************************/
+/* AWARDS SECTION */
+/****************************************************/
 
+#awards{margin:0px 43px; padding-top:115px;}
+#awards .content{overflow:auto;}
+#awards #awards-thumbs li{
+	list-style:none;
+	float:left;
+	margin:0px 20px 15px 0px;
+	padding:0px;
+}
+#awards #awards-thumbs li.last{margin:0px;}
 /****************************************************/
 /* PORTFOLIO SECTION */
 /****************************************************/
