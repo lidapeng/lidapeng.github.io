@@ -116,7 +116,7 @@ a1 {}
 	height:26px; 
 	background:url(images/sm-linkedin-icon.png) no-repeat;
 }
-#about .content{overflow:auto;}
+#about .content{overflow:auto;font-size: 130%; line-height: 2;}
 #about .content img{float:left; margin-right:40px; border:0px solid #222222;}
 #about .content #service-icons{margin-top:20px;}
 #about .content #service-icons li{
@@ -142,7 +142,7 @@ a1 {}
 	width:235px;
 	float:left;
 }
-#experience .content{overflow:auto;}
+#experience .content{overflow:auto;font-size: 130%; }
 #experience .col-mid{margin:0px 65px;}
 
 /****************************************************/
@@ -150,7 +150,7 @@ a1 {}
 /****************************************************/
 
 #education{margin:0px 43px; padding-top:115px;}
-#education .content{overflow:auto;}
+#education .content{overflow:auto;font-size: 130%;}
 #education #education-thumbs li{
 	list-style:none;
 	float:left;
@@ -164,7 +164,7 @@ a1 {}
 /****************************************************/
 
 #research{margin:0px 43px; padding-top:115px;}
-#research .content{overflow:auto;}
+#research .content{overflow:auto;font-size: 130%; }
 #research #education-thumbs li{
 	list-style:none;
 	float:left;
@@ -178,7 +178,7 @@ a1 {}
 /****************************************************/
 
 #teaching{margin:0px 43px; padding-top:115px;}
-#teaching .content{overflow:auto;}
+#teaching .content{overflow:auto;font-size: 130%; }
 #teaching #teaching-thumbs li{
 	list-style:none;
 	float:left;
@@ -191,7 +191,7 @@ a1 {}
 /****************************************************/
 
 #publication{margin:0px 43px; padding-top:115px;}
-#publication .content{overflow:auto;}
+#publication .content{overflow:auto;font-size: 130%; }
 #publication #publication-thumbs li{
 	list-style:none;
 	float:left;
@@ -205,7 +205,7 @@ a1 {}
 /****************************************************/
 
 #presentation{margin:0px 43px; padding-top:115px;}
-#presentation .content{overflow:auto;}
+#presentation .content{overflow:auto;font-size: 130%; }
 #presentation #presentation-thumbs li{
 	list-style:none;
 	float:left;
@@ -218,7 +218,7 @@ a1 {}
 /****************************************************/
 
 #awards{margin:0px 43px; padding-top:115px;}
-#awards .content{overflow:auto;}
+#awards .content{overflow:auto;font-size: 130%; }
 #awards #awards-thumbs li{
 	list-style:none;
 	float:left;
@@ -231,7 +231,7 @@ a1 {}
 /****************************************************/
 
 #skills{margin:0px 43px; padding-top:115px;}
-#skills .content{overflow:auto;}
+#skills .content{overflow:auto;font-size: 130%; }
 #skills #skills-thumbs li{
 	list-style:none;
 	float:left;
@@ -244,7 +244,7 @@ a1 {}
 /****************************************************/
 
 #portfolio{margin:0px 43px; padding-top:115px;}
-#portfolio .content{overflow:auto;}
+#portfolio .content{overflow:auto;font-size: 130%; }
 #portfolio #portfolio-thumbs li{
 	list-style:none;
 	float:left;
@@ -257,7 +257,7 @@ a1 {}
 /* CONNECT SECTION */
 /****************************************************/
 #connect{margin:0px 43px; padding-top:115px;}
-#connect .content{overflow:auto;}
+#connect .content{overflow:auto;font-size: 130%; }
 #connect #form{
 	width:410px;
 	float:left;
