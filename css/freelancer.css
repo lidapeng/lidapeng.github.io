@@ -514,7 +514,7 @@ fieldset[disabled] .btn-success.active {
   display: none;
 }
 /*leaflet map*/
-#mapid { height: 180px; }
+#mapid { height: 180px; width: 100%; }
 
 #map {
   height: 100%;
